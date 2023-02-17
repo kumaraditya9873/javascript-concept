@@ -12,4 +12,4 @@ const result = null; // object
 console.log(typeof result);
 
 let name;
-console.log(name);
+console.log(name); //undefined
