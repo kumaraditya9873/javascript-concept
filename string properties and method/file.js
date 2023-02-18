@@ -23,4 +23,10 @@ console.log(name3.indexOf("e"));
 // trim the string
 
 console.log(name3.trim());
-console.log(name3.startsWith("peter"));
+// console.log(name3.startsWith("peter"));
+
+// to know the place of index
+
+let person = "parth";
+
+console.log(person.indexOf("p"));
